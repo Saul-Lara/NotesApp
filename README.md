@@ -1,5 +1,5 @@
 # Notes App
-This is an simple Note-Taking app. This app lets you create and delete notes in a database.
+This is a simple Note-Taking app. This app lets you create and delete notes in a database.
 
 ## Built With 🛠️
 
